@@ -32,4 +32,3 @@ Since I am from another field of activity, I have no experience in programming. 
 
 ## English
 A2/B1 = Pre-Intermediate.
-A2/B1 =  Pre-Intermediate. 
